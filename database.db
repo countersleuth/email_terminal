@@ -1,23 +1,23 @@
 {
     "1": {
-        "id": "8A73B5",
-        "password": "trustno1",
-        "user": "Mulder, Fox",
+        "id": "gcollins",
+        "password": "smashthestate",
+        "user": "Collins, Genaro",
         "mail": {
             "1": {
-                "from": "Traveller",
-                "title": "Do not Open",
-                "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.  Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+                "from": "Sarah Young : syoung@legacyinc.net",
+                "title": "Data Breach 7 July 2062",
+                "body": "Genaro, thank you for the report on the data breach! We were able to track the location of the attackers and have identified two of them. Rest assured that we will seek prosecution to the fullest extent. We will handle it from here. Thanks!"
             },
             "2": {
-                "from": "Software",
+                "from": "0f04hf8dhafj60d@zyx.io",
                 "title": "undefined",
-                "body": "001100101 011000101 0110 10 01001 01 01110 1001010101"
+                "body": "01101001 00100000 01110011 01100101 01100101 00100000 01111001 01101111 01110101"
             },
             "a": {
-                "from": "Josephus A. Miller",
-                "title": "Contrato n22",
-                "body": "Sector: X11.  Objective: Investigate the sewers and report only to me.  Reward: 22 MCr."
+                "from": "Chris Haron : charon@legacyinc.net",
+                "title": "Facilities Request",
+                "body": "Contractor CH0 will be contacting you after his job at 45 W Anderson Avenue. When he does, please contact SE5 and send him to that location for immediate janitorial services. Expect heavy cleanup. I have confidence in your discretion with this task. Send a report when complete."
             }
         }
     }
